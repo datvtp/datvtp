@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/taskbcn.com/wp-content/uploads/2018/09/1OF0xEMkWBv-69zvmNs6RDQ.gif?fit=1600%2C700&ssl=1)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dat Van</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer%20&center=true&width=380&height=25"></a>
