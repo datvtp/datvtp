@@ -85,11 +85,11 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datvtp&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
   </a>
   
-  <br />
+<!--   <br />
   <br />
   
   <a href="https://github.com/datvtp" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datvtp&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="datvtp"/>
-  </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=datvtp&theme=react-dark&hide_border=true" alt="datvtp"/>
+  </a> -->
 </p>
   
