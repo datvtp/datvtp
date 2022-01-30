@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)
+![MasterHead](./coding-banner.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dat Van</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer%20&center=true&width=380&height=25"></a>
@@ -85,7 +85,8 @@
 
 <p align="center">
   <a href="https://github.com/datvtp" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=datvtp&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="datvtp"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=datvtp&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="datvtp"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datvtp&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
   </a>
   
   <br />
