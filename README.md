@@ -81,15 +81,13 @@
 ### 📊 Other information
 <p align="center">
   <a href="https://github.com/datvtp" target="_blank">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=datvtp&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="datvtp"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datvtp&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="madlife's github stats"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=datvtp&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="datvtp"/>
   </a>
-  
-<!--   <br />
-  <br />
-  
+</p>
+
+<p align="center">
   <a href="https://github.com/datvtp" target="_blank">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=datvtp&theme=react-dark&hide_border=true" alt="datvtp"/>
-  </a> -->
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=datvtp&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="datvtp"/>
+  </a>
 </p>
   
