@@ -5,7 +5,7 @@
 </p>
 
 ### 🙋 About Me
-- 🔭 I’m currently working in **Deliany**
+- 🔭 I’m currently working on **React JS**
 
 - 🌱 I’m learning **everything about frontend**
 
